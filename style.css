@@ -406,9 +406,11 @@
 }
 .icon-list-big {
   height: 50px;
+  max-height: 50px;
 }
 .icon-list-normal {
   height: 40px;
+  max-height: 40px;
 }
 @keyframes changing-colors {
   0% {
